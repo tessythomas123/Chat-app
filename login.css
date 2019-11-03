@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+  }
+   .loginbox{
+     width: 280px;
+     position: absolute;;
+     top: 25%;
+     left: 45%;
+     
+     transform: (-50%,-50%);
+     color: rgb(19, 16, 16);
+  
+  }
+  .loginbox h1{
+    
+    font-size: 40px;
+    float: left;
+    margin-bottom: 50px;
+    border-bottom: 6px solid;
+    padding: 13px 0 ;
+  }
+  .textbox{
+    width: 100%;
+    overflow: hidden;
+    font-size: 20%;
+    margin: 8px 0;
+    padding:8px 0 ;
+    border-bottom: 1px solid;
+  
+  }
+  .btn{
+    padding: 8px;
+    width: 100%;
+    color: rgb(40, 23, 78);
+    font-size: 18px;
+    background: none;
+    border: 2px solid salmon;
+    cursor: pointer;
+  
+  
+  }
+  
+  
